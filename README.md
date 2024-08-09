@@ -20,4 +20,3 @@
   <a href = "mailto:pedrosv020@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
-![snake gif](https://github.com/pedrosvalenti/pedrosvalenti/blob/output/github-contribution-grid-snake.gif)
