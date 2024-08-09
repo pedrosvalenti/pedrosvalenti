@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Pedro.
 
-- 💻 2° Período de Análise e Desenvolvimento de Sistemas
+- 💻 Análise e Desenvolvimento de Sistemas
 - ☕ Conhecimento em Java Básico
 - 🎮 Desenvolvedor Front-end & Back-end em Habblife
 
