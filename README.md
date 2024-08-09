@@ -2,7 +2,7 @@
 
 - 💻 2° Período de Análise e Desenvolvimento de Sistemas
 - ☕ Conhecimento em Java Básico
-- 😄 Pronouns: ele/dele
+- 🎮 Desenvolvedor Front-end & Back-end em Habblife
 
 <div>
   <a href="https://guthub.com/pedrosvalenti">
