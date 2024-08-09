@@ -5,7 +5,7 @@
 - 🎮 Desenvolvedor Front-end & Back-end em Habblife
 
 <div>
-  <a href="https://guthub.com/pedrosvalenti">
+  <a href="https://github.com/pedrosvalenti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrosvalenti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" scr="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosvalenti&layout=compact&langs_count=16&theme=dracula"/>
 </div>
