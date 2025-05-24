@@ -5,11 +5,11 @@
 </p>
 
 <p align="left">
-  🚀 Linguagens: **Java, JavaScript, TypeScript, C#, Python e Lua**
+  🚀 Linguagens: Java, JavaScript, TypeScript, C#, Python e Lua
 </p>
 
 <p align="left">
-  💼 Ferramentas: **Visual Studio Code, NetBeans, IntellijIDEA, Git, Github**
+  💼 Ferramentas: Visual Studio Code, NetBeans, Intellij, Git, Github
 </p>
 
 <p align="left">
