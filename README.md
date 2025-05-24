@@ -1,29 +1,26 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=120&section=header"/>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
+  Olá, me chamo Pedro, sou mais conhecido como Kanary, atualmente estou com 22 anos e estou cursando Analise e Desenvolvimento de Sistemas na UMC (Universidade de Mogi das Cruzes).
+</p>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=cc0000&size=35&center=true&vCenter=true&width=1000&lines=Olá,+meu+nome+é+Pedro+Seudo+Valenti;E+estou+cursando+Analise+e+Desenvolvimento+de+Sistemas+na+UMC;Seja+bem+vindo!+:%29)](https://git.io/typing-svg) 
+<p align="left">
+  🚀 Linguagens: **Java, JavaScript, TypeScript, C#, Python e Lua**
+</p>
 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=pedrosvalenti&show_icons=true&count_private=true&hide_border=true&title_color=cc0000&icon_color=cc0000&text_color=cc0000&bg_color=0d1117" alt="Pedro Seudo Valenti github stats"/> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosvalenti&layout=compact&hide_border=true&title_color=cc0000&text_color=cc0000&bg_color=0d1117" />
-</div>
+<p align="left">
+  💼 Ferramentas: **Visual Studio Code, NetBeans, IntellijIDEA, Git, Github**
+</p>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pedrosvalenti&bg_color=000000&color=cc0000&line=660000&point=ff6666&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
- 
-### Habilidades:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+<p align="left">
+  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+</p>
 
-### Ferramentas:
-![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&logoColor=#F05032&labelColor=0D1117)&nbsp;
-![Github](https://img.shields.io/badge/-Github-0D1117?style=for-the-badge&logo=github&logoColor=#181717&labelColor=0D1117)&nbsp;
-
-### Estou estudando:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
-
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=cc0000&height=120&section=footer"/>
-
+<p align="left">
+  <a href="#" title="Gmail">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:pedrosv020@gmail.com" alt="Gmail"/></a>
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-seudo-valenti-674b422b4/" alt="LinkedIn"/></a>
+  <a href="#" title="Instagram">
+  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://instagram.com/pedrozzyoficial" alt="Instagram"/></a>
+</p>
