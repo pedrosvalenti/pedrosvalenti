@@ -24,3 +24,6 @@
   <a href="https://instagram.com/pedrozzyoficial" title="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://instagram.com/pedrozzyoficial" alt="Instagram"/></a>
 </p>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosvalenti&layout=compact&theme=tokyonight)
+
