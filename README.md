@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🚀 Linguagens: Java, JavaScript, TypeScript, C#, Python e Lua
+  🚀 Linguagens: Java, JavaScript, TypeScript, ReactJS, React, Python e Lua
 </p>
 
 <p align="left">
@@ -25,6 +25,6 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://instagram.com/pedrozzyoficial" alt="Instagram"/></a>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosvalenti&theme=dracula&show_percent=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosvalenti&theme=omni&show_percent=true)
 
 
