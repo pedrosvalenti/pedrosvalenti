@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Olá, me chamo Pedro, sou mais conhecido como Kanary, atualmente estou com 22 anos e estou cursando Analise e Desenvolvimento de Sistemas na UMC (Universidade de Mogi das Cruzes).
+  Olá, me chamo Pedro, sou mais conhecido como Kanary, atualmente estou com 22 anos, formado Analise e Desenvolvimento de Sistemas pela UMC (Universidade de Mogi das Cruzes).
 </p>
 
 <p align="left">
