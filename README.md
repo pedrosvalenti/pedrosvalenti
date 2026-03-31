@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Fala aí! Eu sou o **Pedro**, mas pode me chamar de **Kanary** 🐤  
+Fala aí! Eu sou o **Pedro**, mas pode me chamar de **Kanary**  
 Tenho **22 anos** e sou formado em **Análise e Desenvolvimento de Sistemas (UMC)**.
 
 💡 Apaixonado por tecnologia e criação de sistemas completos  
