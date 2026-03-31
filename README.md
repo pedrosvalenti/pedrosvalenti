@@ -21,10 +21,9 @@ Tenho **22 anos** e sou formado em **Análise e Desenvolvimento de Sistemas (UMC
 ## 🧠 Especialidades
 
 - 💻 Desenvolvimento Web Full Stack
-- 🤖 Bots profissionais para Discord (Slash Commands + Dashboard)
-- 🎮 Scripts avançados para FiveM (vRP / Creative)
+- 🤖 Bots profissionais para Discord (Slash Commands + Componentes v2)
 - ⚙️ Automações e sistemas inteligentes
-- 🌐 Criação de plataformas e SaaS
+- 🌐 Criação de plataformas
 
 ---
 
