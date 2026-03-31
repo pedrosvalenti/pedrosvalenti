@@ -98,3 +98,19 @@ Tenho **22 anos** e sou formado em **Análise e Desenvolvimento de Sistemas (UMC
 </p>
 
 ---
+
+## 👀 Extras
+
+✨ Sempre evoluindo  
+🚀 Criando fora do padrão  
+🔥 Construindo algo grande  
+
+---
+
+## 👁️ Visitas no perfil
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pedrosvalenti&color=blue"/>
+</p>
+
+---
