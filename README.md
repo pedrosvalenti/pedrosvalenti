@@ -50,8 +50,8 @@ Tenho **22 anos** e sou formado em **Análise e Desenvolvimento de Sistemas (UMC
 ## 📊 Estatísticas
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrosvalenti&show_icons=true&theme=tokyonight&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosvalenti&layout=compact&theme=tokyonight"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrosvalenti&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosvalenti&layout=compact&theme=tokyonight&cache_seconds=1800"/>
 </p>
 
 ---
