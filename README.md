@@ -1,30 +1,100 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+# 🚀 Pedro Seudo Valenti (Kanary)
 
-<p align="left"> 
-  Olá, me chamo Pedro, sou mais conhecido como Kanary, atualmente estou com 22 anos, formado Analise e Desenvolvimento de Sistemas pela UMC (Universidade de Mogi das Cruzes).
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Criador+de+Sistemas;Especialista+em+FiveM+e+Bots+Discord;Construindo+ideias+fora+do+padrão🚀">
 </p>
 
-<p align="left">
-  🚀 Linguagens: Java, JavaScript, TypeScript, ReactJS, React, Python e Lua
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right">
+
+---
+
+## 👨‍💻 Sobre mim
+
+Fala aí! Eu sou o **Pedro**, mas pode me chamar de **Kanary** 🐤  
+Tenho **22 anos** e sou formado em **Análise e Desenvolvimento de Sistemas (UMC)**.
+
+💡 Apaixonado por tecnologia e criação de sistemas completos  
+🔥 Focado em transformar ideias em projetos reais e lucrativos  
+
+---
+
+## 🧠 Especialidades
+
+- 💻 Desenvolvimento Web Full Stack
+- 🤖 Bots profissionais para Discord (Slash Commands + Dashboard)
+- 🎮 Scripts avançados para FiveM (vRP / Creative)
+- ⚙️ Automações e sistemas inteligentes
+- 🌐 Criação de plataformas e SaaS
+
+---
+
+## ⚡ Tech Stack
+
+### 💻 Linguagens
+<p>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python,lua"/>
 </p>
 
-<p align="left">
-  💼 Ferramentas: Visual Studio Code, NetBeans, Intellij, Git, Github
+### 🌐 Front-end
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css"/>
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
+### 🛠️ Ferramentas
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,idea,git,github"/>
 </p>
 
-<p align="left">
-  <a href="mailto:pedrosv020@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link="mailto:pedrosv020@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/pedro-seudo-valenti-674b422b4/" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link="https://www.linkedin.com/in/pedro-seudo-valenti-674b422b4/" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/pedrozzyoficial" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link="https://instagram.com/pedrozzyoficial" alt="Instagram"/></a>
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=pedrosvalenti&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosvalenti&layout=compact&theme=tokyonight"/>
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrosvalenti&theme=omni&show_percent=true)
+---
 
+## 🔥 Atividade
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pedrosvalenti&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🐍 Snake comendo commits
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/pedrosvalenti/pedrosvalenti/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+## 🚀 Projetos em destaque
+
+💡 Aqui você vai encontrar:
+
+- 🤖 Bots de Discord completos e profissionais  
+- 🌐 Sites modernos com integração de APIs e Discord  
+- 🎮 Scripts exclusivos para servidores FiveM  
+- 🧠 Sistemas automatizados e soluções inteligentes  
+
+---
+
+## 📬 Contato
+
+<p align="center">
+  <a href="mailto:pedrosv020@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pedro-seudo-valenti-674b422b4/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://instagram.com/pedrozzyoficial">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+</p>
+
+---
