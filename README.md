@@ -1,4 +1,4 @@
-# 🚀 Pedro Seudo Valenti (Kanary)
+# 🚀 Pedro Seudo Valenti (Pedrozzy)
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=28&center=true&vCenter=true&width=1000&lines=Desenvolvedor+Full+Stack;Criador+de+Sistemas;Especialista+em+FiveM+e+Bots+Discord;Construindo+ideias+fora+do+padrão🚀">
@@ -10,7 +10,7 @@
 
 ## 👨‍💻 Sobre mim
 
-Fala aí! Eu sou o **Pedro**, mas pode me chamar de **Kanary**  
+Fala aí! Eu sou o **Pedro**, mas pode me chamar de **Pedrozzy**  
 Tenho **22 anos** e sou formado em **Análise e Desenvolvimento de Sistemas (UMC)**.
 
 💡 Apaixonado por tecnologia e criação de sistemas completos  
