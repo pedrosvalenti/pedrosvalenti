@@ -31,12 +31,12 @@ Tenho **22 anos** e sou formado em **Análise e Desenvolvimento de Sistemas (UMC
 
 ### 💻 Linguagens
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python,lua"/>
+  <img src="https://skillicons.dev/icons?i=java,js,ts,python"/>
 </p>
 
 ### 🌐 Front-end
 <p>
-  <img src="https://skillicons.dev/icons?i=react,html,css"/>
+  <img src="https://skillicons.dev/icons?i=php,react,html,css"/>
 </p>
 
 ### 🛠️ Ferramentas
