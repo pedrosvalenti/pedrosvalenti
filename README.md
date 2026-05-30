@@ -11,7 +11,7 @@
 ## 👨‍💻 Sobre mim
 
 Fala aí! Eu sou o **Pedro**, mas pode me chamar de **Pedrozzy**  
-Tenho **22 anos** e sou formado em **Análise e Desenvolvimento de Sistemas (UMC)**.
+Tenho **23 anos** e sou formado em **Análise e Desenvolvimento de Sistemas (UMC)**.
 
 💡 Apaixonado por tecnologia e criação de sistemas completos  
 🔥 Focado em transformar ideias em projetos reais e lucrativos  
